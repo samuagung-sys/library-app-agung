@@ -1,0 +1,16 @@
+Library App
+
+Tech Stack:
+React
+TypeScript
+TanStack Query
+Axios
+Tailwind
+
+Features:
+Login
+Browse Books
+Search Books
+Borrow Book
+My Loans
+Return Book
